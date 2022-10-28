@@ -4,7 +4,8 @@
   "description": "For details on API endpoints, please see [documentation](https://documenter.getpostman.com/view/23964059/2s8YCbob9i)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "startDev": "nodemon src/server.js"
   },
   "keywords": [],
   "author": "kanocode",
